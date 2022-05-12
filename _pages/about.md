@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "about"
+title: "About me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -10,6 +10,18 @@ redirect_from:
 
 
 Data Scientist with 4 years of R&D work experience in NLP, unstructured data, & prototyping, from inception to deployment. Proficient with data pipeline, ELT, ML lifecycle, models & analytics, with strong statistical background. I work on infusing automated assistance in enterprise infrastructure to repurpose the workforce for more productivity and efficiency.
+
+
+## Topics of Interest:
+
+
+## Education:
+
+#### 🎓 MS, 2018
+&nbsp;&nbsp; Carnegie Mellon University
+#### 🎓 B.Tech, 2017
+&nbsp;&nbsp; Delhi Technological University (formerly DCE) 
+
 
 
 A data-driven personal website
