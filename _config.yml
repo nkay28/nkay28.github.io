@@ -85,8 +85,8 @@ author:
   bio              : "Data Scientist, NLP"
   location         : "DMV"
   employer         :
-  pubmed           : ""
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  pubmed           : #""
+  googlescholar    : #"http://yourfullgooglescholarurl.com"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -103,10 +103,10 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : "kaynitin" #"https://www.linkedin.com/in/kaynitin/"
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    : https://stackoverflow.com/users/14375450/niklaus4?tab=profile
   steam            :
   tumblr           :
   twitter          :
