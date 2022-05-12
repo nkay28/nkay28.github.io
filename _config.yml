@@ -106,7 +106,7 @@ author:
   orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
-  stackoverflow    : https://stackoverflow.com/users/14375450/niklaus4?tab=profile
+  stackoverflow    : "14375450/niklaus4?tab=profile" #https://stackoverflow.com/users/14375450/niklaus4?tab=profile
   steam            :
   tumblr           :
   twitter          :
