@@ -16,12 +16,15 @@ Data Scientist with 4 years of R&D work experience in NLP, unstructured data, & 
 
 
 ## Education
-
 ### 🎓 MS, 2018
 &nbsp;&nbsp;&nbsp; Carnegie Mellon University
 ### 🎓 B.Tech, 2017
 &nbsp;&nbsp;&nbsp; Delhi Technological University (formerly DCE) 
 
+
+
+
+==========
 
 
 A data-driven personal website
