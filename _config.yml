@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/nkay28"
+  github           : "nkay28" #"https://github.com/nkay28"
   google_plus      :
   keybase          :
   instagram        :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : ""
+  twitter          :
   vine             :
   weibo            :
   xing             :
