@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Nitin"
+title                    : ""
 title_separator          : "-"
 name                     : &name "Nitin Kumar"
 description              : &description "Data Scientist with 4 years of R&D work experience in NLP, unstructured data, & prototyping, from inception to deployment. Proficient with data pipeline, ELT, ML lifecycle, models & analytics, with strong statistical background."
