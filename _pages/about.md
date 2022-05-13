@@ -8,18 +8,21 @@ redirect_from:
   - /about.html
 ---
 
+<div style="text-align: justify"> 
+I'm a Data Scientist working in R&D with focus on Natural Language Processing (NLP) domain. I specialize in unstructured data, & prototyping, delivering proof of concept (POC) from inception to deployment. Previously I have worked as a Research associate collaborating on projects from Defense Advanced Research Projects Agency (DARPA), Air Force Research Laboratory (AFLR) and Lockheed Martin. Currently, I work on infusing automated assistance in enterprise infrastructure to repurpose the workforce for more productivity and efficiency. 
 
-Data Scientist with 4 years of R&D work experience in NLP, unstructured data, & prototyping, from inception to deployment. Proficient with data pipeline, ELT, ML lifecycle, models & analytics, with strong statistical background. I work on infusing automated assistance in enterprise infrastructure to repurpose the workforce for more productivity and efficiency.
+Proficient with data pipeline, ELT, ML lifecycle, models & analytics, with strong statistical background. Also have experience with cloud and DevOps.   
 
+</div>
 
-**Topics of Interest**
+## **Topics of Interest**
 * NLP
-* Protoyping
-* POC
+* Enterprize Search 
+* Protoyping and POC
 
-**Education**
+## **Education**
 ### 🎓 MS, 2018
-&nbsp;&nbsp;&nbsp; Carnegie Mellon University
+&nbsp;&nbsp;&nbsp; [Carnegie Mellon University](https://www.cmu.edu/)
 ### 🎓 B.Tech, 2017
 &nbsp;&nbsp;&nbsp; Delhi Technological University (formerly DCE) 
 
@@ -28,13 +31,8 @@ Data Scientist with 4 years of R&D work experience in NLP, unstructured data, & 
 
 
 
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-
-
 **Markdown generator**
 
-I have also created [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) 
 
 Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) 
 
