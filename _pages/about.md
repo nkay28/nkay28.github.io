@@ -9,7 +9,8 @@ redirect_from:
 ---
 
 <div style="text-align: justify"> 
-I'm a Data Scientist working in R&D with focus on Natural Language Processing (NLP) domain. I specialize in unstructured data, & prototyping, delivering proof of concept (POC) from inception to deployment. Previously I have worked as a Research associate collaborating on projects from Defense Advanced Research Projects Agency (DARPA), Air Force Research Laboratory (AFLR) and Lockheed Martin. Currently, I work on infusing automated assistance in enterprise infrastructure to repurpose the workforce for more productivity and efficiency. 
+I'm a Data Scientist working in R&D with focus on Natural Language Processing (NLP) domain. I specialize in unstructured data, & prototyping, delivering proof of concept (POC) from inception to deployment. 
+I received my Masters from [Carnegie Mellon University](https://www.cmu.edu/). I have worked as a Research Associate collaborating on projects from Defense Advanced Research Projects Agency (DARPA), Air Force Research Laboratory (AFLR) and Lockheed Martin. Currently, I work on infusing automated assistance in enterprise infrastructure to repurpose the workforce for more productivity and efficiency.  
 
 Proficient with data pipeline, ELT, ML lifecycle, models & analytics, with strong statistical background. Also have experience with cloud and DevOps.   
 
@@ -21,9 +22,9 @@ Proficient with data pipeline, ELT, ML lifecycle, models & analytics, with stron
 * Protoyping and POC
 
 ## **Education**
-### 🎓 MS, 2018
-&nbsp;&nbsp;&nbsp; [Carnegie Mellon University](https://www.cmu.edu/)
-### 🎓 B.Tech, 2017
+**🎓 Master of Science (MS), 2018**
+&nbsp;&nbsp;&nbsp; Carnegie Mellon University (CMU)
+### 🎓 Bachelor of Technology (B.Tech), 2017
 &nbsp;&nbsp;&nbsp; Delhi Technological University (formerly DCE) 
 
 
@@ -31,10 +32,11 @@ Proficient with data pipeline, ELT, ML lifecycle, models & analytics, with stron
 
 
 
-**Markdown generator**
+[//]: <>(**Markdown generator**)
 
 
-Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) 
+[//]: <> (Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md))
+
 
 [//]: <> (![Editing a markdown file for a talk](/images/editing-talk.png))
 
