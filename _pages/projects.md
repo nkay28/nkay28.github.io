@@ -14,9 +14,8 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 
-
-## Proposal automation product: An Advanced Enterprise Search Engine with Semantic Search assistant
-
+[//]: # (## Proposal automation product: An Advanced Enterprise Search Engine with Semantic Search assistant)
+<!-- 
 ##  Applicant recommender system via NLP based resume feature extraction combined with ATS fields query. 
 
 ## NIH’s international Heart Stroke AI Research with Federated learning and cloud native pipeline. 
@@ -34,4 +33,4 @@ author_profile: true
 ## DARPA and Air Force Research Lab (AFRL) Hackathon
 
 ## General Services Administration (GSA) EULA Challenge
-
+ -->
