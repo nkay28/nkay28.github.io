@@ -6,6 +6,18 @@ author_profile: true
 ---
 
 
+
+{% if author.googlescholar %}
+  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
+{% endif %}
+
+{% include base_path %}
+
+{% for post in site.projects reversed %}
+  {% include archive-single.html %}
+{% endfor %}
+
+
 ## Proposal automation product: An Advanced Enterprise Search Engine with Semantic Search assistant
 
 ##  Applicant recommender system via NLP based resume feature extraction combined with ATS fields query. 
@@ -26,14 +38,3 @@ author_profile: true
 
 ## General Services Administration (GSA) EULA Challenge
 
-
-
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
-
-{% include base_path %}
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
