@@ -6,6 +6,9 @@ author_profile: true
 ---
 
 
+{% if author.googlescholar %}
+  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
+{% endif %}
 
 
 {% include base_path %}
@@ -14,7 +17,9 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 
-[//]: # (## Proposal automation product: An Advanced Enterprise Search Engine with Semantic Search assistant)
+## Proposal automation product: An Advanced Enterprise Search Engine with Semantic Search assistant
+
+
 <!-- 
 ##  Applicant recommender system via NLP based resume feature extraction combined with ATS fields query. 
 
