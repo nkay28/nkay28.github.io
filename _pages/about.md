@@ -10,7 +10,7 @@ redirect_from:
 
 <div style="text-align: justify"> 
 I'm a Data Scientist working in R&D with focus on Natural Language Processing (NLP) domain. I specialize in unstructured data, & prototyping, delivering proof of concept (POC) from inception to deployment. 
-I received my Masters from <a href="https://www.cmu.edu/">Carnegie Mellon University</a>. I have worked as a Research Associate collaborating on projects from Defense Advanced Research Projects Agency (DARPA), Air Force Research Laboratory (AFLR) and Lockheed Martin. Currently, I work on infusing automated assistance in enterprise infrastructure to repurpose the workforce for more productivity and efficiency.  
+I received my Masters from <a href="https://www.cmu.edu/">Carnegie Mellon University</a>. I have worked as a Research Associate collaborating on projects from Defense Advanced Research Projects Agency (DARPA), Air Force Research Laboratory (AFLR) and Lockheed Martin. Currently, I work on infusing automated assistance in enterprise infrastructure to repurpose the workforce for more productivity and efficiency. As a Data Scientist, I have also collaborated on projects with federal organizations including NIH NINDS, VCE, VA and NOAA.  
 
 Proficient with data pipeline, ELT, ML lifecycle, models & analytics, with strong statistical background. Also have experience with cloud and DevOps.   
 
