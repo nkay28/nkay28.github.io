@@ -22,9 +22,9 @@ Proficient with data pipeline, ELT, ML lifecycle, models & analytics, with stron
 * Protoyping and POC
 
 ## **Education**
-**🎓 Master of Science (MS)**, 2018 \
+**🎓 Master of Science (MS)** \
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Carnegie Mellon University (CMU) \
-**🎓 Bachelor of Technology (B.Tech)**, 2017 \
+**🎓 Bachelor of Technology (B.Tech)** \
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Delhi Technological University (formerly DCE) 
 
 
