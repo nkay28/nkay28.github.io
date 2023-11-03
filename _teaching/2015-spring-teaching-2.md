@@ -2,19 +2,13 @@
 title: "Teaching experience 2"
 collection: teaching
 type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
+permalink: https://www.cmu.edu/cee/resources/cee-courses/12-709.html 
+venue: "Carnegie Mellon University, CEE"
+date: 2018-01-09
 location: "City, Country"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
 
-Heading 1
+Data Analytics for Engineered Systems
 ======
 
-Heading 2
-======
-
-Heading 3
-======
